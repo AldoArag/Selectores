@@ -1,6 +1,3 @@
-# Selectores
-selectores en ccs
-
 <h1>CSS Selectors</h1>
 </header>
 <main>
@@ -39,13 +36,6 @@ selectores en ccs
   </article>
 </main>
 
-<head>
-    <style>
-        body {
-  font-size: 22px;
-}
-    </style>
-</head>
 
 
 
@@ -123,13 +113,12 @@ p span {
 <style>
     p { color: red; }
     p { color: blue; }
-    p { color: green; }
+    p { color: rgb(0, 157, 0); }
    </style>
 
 
 <style>
     p { color: red; 
     color: blue; 
-    color: green; }
+    color: rgb(13, 231, 13); }
    </style>
-
